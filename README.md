@@ -40,3 +40,5 @@ The Sudoku Solver employs a backtracking algorithm to efficiently solve Sudoku p
 
 The project aims to provide a clear and straightforward way to solve Sudoku puzzles, making it suitable for both learning and practical use. Happy Sudoku solving!
 
+For more detailed information and code, you can also check out the [Medium article](https://medium.com/@sumanthbotlagunta977/sudoku-solver-in-python-7734d5f53387) on this project.
+
